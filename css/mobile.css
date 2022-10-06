@@ -16,7 +16,9 @@
   .home-article {
     flex-direction: column;
   }
-
+  .home-article-content{
+    margin-left: 10%;
+  }
   .home-article-img {
     text-align: center;
   }
