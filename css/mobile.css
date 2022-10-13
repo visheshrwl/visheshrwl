@@ -20,7 +20,11 @@
   .home-article-img {
     text-align: center;
   }
-
+  
+  .home-article-content{
+    margin-left: 10%;
+  }
+  
   .year-box {
     top: 25px;
     left: 60vw;
