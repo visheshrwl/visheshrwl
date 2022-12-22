@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:79%;position:relative;"><iframe src="https://giphy.com/embed/pGVrRLHRzoRcQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/robert-downey-jr-marvel-iron-man-pGVrRLHRzoRcQ">via GIPHY</a></p>
+<div align="center" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/robert-downey-jr-marvel-iron-man-pGVrRLHRzoRcQ">via GIPHY</a></p>
 
 # 💫 About Me:
 Hi there 👋, my name is Vishesh Rawal.<br>🌱 I’m currently learning JS.<br>💬 Ask me about music suggestions.<br>📫 How to reach me: vp2005rawal@gmail.com<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: “Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name.
