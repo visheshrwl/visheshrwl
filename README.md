@@ -1,4 +1,4 @@
-<img src="/8924570_2738.jpg" alt="">
+<img src="/image.jpg" alt="">
 # 💫 About Me:
 Hi there 👋, my name is Vishesh Rawal.<br>🌱 I’m currently learning JS.<br>💬 Ask me about music suggestions.<br>📫 How to reach me: vp2005rawal@gmail.com<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: “Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name.
 
