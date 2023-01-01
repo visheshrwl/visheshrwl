@@ -1,4 +1,4 @@
-<img align="center" src="/robert-downey-jr-tony-stark (1).gif" alt="">
+<img align="center" src="/robert-downey-jr-tony-stark (1).gif" alt="Iron - Man Scene">
 
 <h1 align="center">Hi 👋, I'm Vishesh Rawal</h1>
 <h3 align="center">A passionate freshman from Thapar Institute.</h3>
