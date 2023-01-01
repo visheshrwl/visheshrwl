@@ -1,5 +1,4 @@
 <img align="center" src="/robert-downey-jr-tony-stark (1).gif" alt="">
-<script src="https://kit.fontawesome.com/4b5d41d438.js" crossorigin="anonymous"></script>
 
 <h1 align="center">Hi 👋, I'm Vishesh Rawal</h1>
 <h3 align="center">A passionate freshman from Thapar Institute.</h3>
@@ -20,7 +19,7 @@
 
 - 📫 How to reach me **vp2005rawal@gmail.com**
 
-- <i class="fa-solid fa-face-grin-tongue-wink"></i> Fun fact: “Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name.
+- 💬 Fun fact: “Q” is the only letter of the alphabet that does not appear in any U.S. territory or state name.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
