@@ -1,6 +1,10 @@
 <h1 align="center">Hi👋,I'm Vishesh Rawal</h1>
 <h3 align="center">A Coder And A Web developer🤖</h3>
-<img align  ="right" width = 400px src="/11602236_21004063-removebg-preview.png" alt="">
+<img align  ="center" width = 400px src="/11602236_21004063-removebg-preview.png" alt="">
+
+<br>
+<br>
+<br>
 
 # 💫 About Me:
 🔭 I'm currently working on OOPS<br>👯 I'm looking to collaborate on CPP<br>🤝 I'm looking for help with App Dev<br>🌱 I'm currently learning OOPS<br>💬 Ask me about Web-Dev<br>⚡ Fun fact "The first computer bug was an actual bug. A moth, to be precise. Yes, the first computer bug was discovered in 1947 and was a literal bug; or moth, stuck inside Grace Hopper's Harvard Mark II computer. (The irony that Grace Hopper sounds a lot like grasshopper isn't lost on me here, either). "
