@@ -56,13 +56,6 @@
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visheshrwl&theme=solarized_dark"/>
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=visheshrwl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=VisheshRwl)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
