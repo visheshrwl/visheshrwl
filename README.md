@@ -54,6 +54,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=visheshrwl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=visheshrwl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📊 GitHub Analytics
+
+<p align="start">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=visheshrwl&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=visheshrwl&layout=compact&langs_count=8&theme=solarized-dark"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visheshrwl&theme=solarized_dark"/>
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=visheshrwl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
