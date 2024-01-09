@@ -56,6 +56,8 @@
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visheshrwl&theme=solarized_dark"/>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@018cecbf-aa38-493d-a22e-5040696eff20/3f1d42d7-da5b-4a3a-b940-0f38e8b99279.svg"></embed></figure>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
