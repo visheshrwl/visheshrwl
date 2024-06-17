@@ -13,7 +13,7 @@
 🔭 I'm currently working on DSA. <br>
 👯 I'm looking to collaborate on Backend Development. <br>
 🤝 I'm looking for help with Cloud. <br>
-🌱 I'm currently learning GO.<br>
+🌱 I'm currently learning Rust.<br>
 💬 Ask me about Web-Dev.<br>
 ⚡Fun fact "The first computer bug was an actual bug."
 
