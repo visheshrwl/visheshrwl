@@ -63,7 +63,6 @@
 
 [![visheshrwl's GitHub | Languages Over Time](https://stats.quine.sh/visheshrwl/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=visheshrwl)
 [![visheshrwl's Web3 | Identity](https://stats.quine.sh/visheshrwl/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=visheshrwl)
-[![visheshrwl's Stack Overflow | Stats](https://stats.quine.sh/visheshrwl/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=visheshrwl)
 ---
 [![](https://visitcount.itsvg.in/api?id=RAW&label=Clicks&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
