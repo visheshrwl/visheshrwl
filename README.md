@@ -62,6 +62,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![visheshrwl's GitHub | Languages Over Time](https://stats.quine.sh/visheshrwl/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=visheshrwl)
+[![visheshrwl's GitHub | Dependencies](https://stats.quira.sh/visheshrwl/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=visheshrwl)
 ---
 
 
