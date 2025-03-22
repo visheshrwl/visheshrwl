@@ -15,9 +15,9 @@
 🤝 I'm looking for help with Edge AI <br>
 🌱 I'm currently learning Robotics. <br>
 💬 Ask me about Web-Dev. <br>
-⚡Fun fact "Apple’s iPhone has more computing power than NASA’s computers during the moon landing."
-🤝 Mentor @HackMIT (Massachusetts Institute of Technology)
-🤝 Mentor @GSSoC
+⚡Fun fact "Apple’s iPhone has more computing power than NASA’s computers during the moon landing." <br>
+🤝 Mentor @HackMIT (Massachusetts Institute of Technology) <br>
+🤝 Mentor @GSSoC <br>
 
 
 ## 🌐 Socials:
