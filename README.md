@@ -1,55 +1,71 @@
-<img src="/8924570_2738.jpg" alt="">
+<!-- ─────────────────────────  HERO SECTION  ───────────────────────── -->
+<p align="center">
+  <img src="/8924570_2738.jpg" alt="Banner" width="100%">
+</p>
 
-<h1 align="center">Hi👋,I'm Vishesh Rawal</h1>
-<h3 align="center">A Coder And A Web developer🤖</h3>
+<h1 align="center">Hey 👋 I’m <em>Vishesh Rawal</em></h1>
+<h3 align="center">Final-year CSE • Backend & ML Engineer • Night-shift Bug Exterminator</h3>
 
+<p align="center">
+  <img src="/11602236_21004063-removebg-preview.png" alt="Vishesh Avatar" width="260">
+</p>
 
-<br>
-<br>
+<!-- ───────────────────────────── About Me ──────────────────────────── -->
+## 🛰️  About Me
+| Now | Next | Random |
+|-----|------|--------|
+| `🔍 Digging into DSA` | `🇫🇷 Finishing Duolingo French` | “Apple’s **iPhone 6** had *120 ×* the CPU power of Apollo 11’s guidance computer.” |
+| `⚙️ Building EV-Twin micro-services` | `🚀 Scaling to ≥ 1 M req/s` | I’ve mentored at **HackMIT 2024** & **GSSoC** |
+| `🔅 Learning Robotics / Edge-AI` | `🔋 Publishing LSTM-EKF battery-health paper` | My coffee-to-code ratio is ≈ 1:42 |
 
-<img align  ="right" width = 400px src="/11602236_21004063-removebg-preview.png" alt="">
+<!-- ─────────────────────────── SOCIAL LINKS ────────────────────────── -->
+## 🌐  Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/irwlvishesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/VisheshRwl)
 
-# 💫 About Me:
-🔭 I'm currently working on DSA. <br>
-👯 I'm looking to collaborate on Rust & Systems Programming. <br>
-🤝 I'm looking for help with Edge AI <br>
-🌱 I'm currently learning Robotics. <br>
-💬 Ask me about Web-Dev. <br>
-⚡Fun fact "Apple’s iPhone has more computing power than NASA’s computers during the moon landing." <br>
-🧑‍🏫 Mentored @ **HackMIT 2024**, **GSSoC**, & multiple open source programs
+<!-- ───────────────────────────── STACK ─────────────────────────────── -->
+## 💻  Tech Stack & Toys
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+<!-- ─────────────────────────── WhoAmI.py ──────────────────────────── -->
+## 🧬 Who Am I — *static runtime banner*
+```python
+class WhoAmI:
+    user: str = "Vishesh Rawal"
+    current_work: str = "Brewing code & caffeine"
+    hobbies = [
+        "Coding at 2 AM",
+        "Sci-Fi marathons",
+        "Reading cyber-punk novels",
+        "Chasing that ONE elusive bug…"
+    ]
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irwlvishesh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VisheshRwl) 
+    # geotag – because 'where' often explains 'why'
+    @staticmethod
+    def get_city() -> str:
+        return "Udaipur, India"
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+    # bucket-list trimmed to fit one screen
+    def ambitions(self):
+        return [
+            "Learn flawless French 🇫🇷",
+            "Open-source a Rust micro-kernel 🦀",
+            "Publish an EV battery-health paper 🔋",
+            "Hit 300 ACS in Valorant 🎯"
+        ]
 
-## WhoAmI
+    motto = lambda self: "Impossible == <404 Not Found>"
 
- ```python
- class WhoAmI:
- 	user = 'Vishesh Rawal'
-		current_work = 'Writing code'
-		hobbies = [
-				'Coding',
-				'Watching Sci-Fi Movies and Series',
-				'Reading Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Udaipur_India()
-	
-	def Ambitions():
-		LearnFrench()
-		CreateOS()
-		Finish()
-		# Assume 1000 more awesome ambitions here  ;)
-	
- ```
 
 ## 📊 GitHub Analytics
 
