@@ -81,5 +81,5 @@ class WhoAmI:
 
 ---
 
-![visitors](https://profile-counter.glitch.me/visheshrwl/count.svg?align=center)
+![Visitors](https://komarev.com/ghpvc/?username=visheshrwl)
 
