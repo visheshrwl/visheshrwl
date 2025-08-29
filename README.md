@@ -22,7 +22,6 @@
 ## 🌐  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/irwlvishesh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/VisheshRwl)
 
 <!-- ───────────────────────────── STACK ─────────────────────────────── -->
 ## 💻  Tech Stack & Toys
