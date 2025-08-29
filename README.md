@@ -64,7 +64,7 @@ class WhoAmI:
         ]
 
     motto = lambda self: "Impossible == <404 Not Found>"
-
+```
 
 ## 📊 GitHub Analytics
 
