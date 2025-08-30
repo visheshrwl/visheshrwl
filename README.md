@@ -9,7 +9,7 @@
 <p align="center">
   <img src="/11602236_21004063-removebg-preview.png" alt="Vishesh Avatar" width="260">
 </p>
-
+[![An image of @visheshrwl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visheshrwl)](https://holopin.io/@visheshrwl)
 <!-- ───────────────────────────── About Me ──────────────────────────── -->
 ## 🛰️  About Me
 | Now | Next | Random |
