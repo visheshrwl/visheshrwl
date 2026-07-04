@@ -1,102 +1,77 @@
-<!-- Profile README optimized for GitHub SEO and clarity -->
-<p align="center">
-  <img src="/8924570_2738.jpg" alt="Vishesh Rawal Banner" width="100%">
-</p>
+# Vishesh Rawal
 
-<h1 align="center">Vishesh Rawal</h1>
-<h3 align="center">Coder • Web Developer • Mentor</h3>
+I write Go and Rust for things that need to be fast.
+I write Python when I need it done by Tuesday.
+I've been wrong about architecture exactly as many times as I've been right.
 
-<p align="center">
-  <a href="https://linkedin.com/in/visheshrawal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/VisheshRwl"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/irwlvishesh"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal)
+[![Website](https://img.shields.io/badge/visheshrawal.in-000000?logo=google-chrome&logoColor=white)](https://visheshrawal.in)
+[![npm](https://img.shields.io/badge/npm-%40blackvult%2Fdevkit-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/@blackvult/devkit)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VisheshRwl)
 
 ---
 
+### What I'm currently working on
+
+- Leading a **Django to Go strangler-fig migration** on AWS EKS at [Repos Energy](https://repos.energy). Still in flight. The pprof graphs are beautiful.
+- Building **[Blackvult](https://blackvult.org)** — starting with [`@blackvult/devkit`](https://npmjs.com/package/@blackvult/devkit), an MCP server toolkit. Long game.
+- Writing *The Backend Dispatch* — a technical series I keep telling myself I'll finish.
+
+---
+
+### Things I find genuinely interesting
+
+**Heap profiling.** Most people look at CPU. The allocator tells you more.
+
+**Strangler-fig migrations.** Incrementally replacing a monolith in production without a rewrite big bang is harder than it sounds and more satisfying than it should be.
+
+**Logical replication in PostgreSQL.** Underused. Wildly powerful for pre-prod isolation and CDC.
+
+**When ClickHouse is the right answer** — and more often, when it isn't.
+
+**The gap between "observable" and "actually understood in production."**
+
+---
+
+### Things I've contributed to
+
+- **[google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)** — PR #1426. Windows `pip install` support. Small fix, took longer than expected, ships in the 2.0 blog post. Marc Lanctot was kind enough to call it out.
+- **[idempotent.dev](https://idempotent.dev)** — Go microservice. Idempotency-as-a-service for HTTP APIs. Upstash Redis backend. Live.
+- **97 articles** on [visheshrawal.in](https://visheshrawal.in). Written because I got tired of re-explaining the same things in PRs.
+- **IEEE Xplore** — one paper. Zero-Trust in distributed API infrastructure. Written during my final year, holds up reasonably well.
+
+---
+
+### Stack I actually use
+
+```
+Daily          Go, Python, TypeScript
+Occasionally   Rust, C, C++
+Databases      PostgreSQL (primary), Redis, ClickHouse, Kafka/MSK
+Infra          AWS EKS, Docker, Kubernetes, Prometheus, Grafana, Loki
+```
+
+---
+
+### How I think about this
+
+I don't think the goal is to write clever code. The goal is to write code that a tired engineer at 2am during an incident can read, understand, and fix without calling you. Everything else is secondary.
+
+I've been on both ends of that 2am call.
+
+---
 
 <details>
-<summary><b>👋 About Me</b></summary>
+<summary>GitHub activity</summary>
 
-<ul>
-  <li>🔭 <b>Currently:</b> Building scalable systems, exploring Robotics, and pushing the boundaries of Edge AI.</li>
-  <li>🦀 <b>Rustacean:</b> Passionate about Rust, systems programming, and low-level optimization.</li>
-  <li>🤝 <b>Mentor:</b> HackMIT, GSSoC, and open-source communities.</li>
-  <li>🌱 <b>Lifelong Learner:</b> Always shipping, always iterating.</li>
-  <li>💬 <b>Ask me about:</b> Web, backend, and distributed systems.</li>
-  <li>🌍 <b>Location:</b> Udaipur, India</li>
-</ul>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=visheshrwl&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=visheshrwl&layout=compact&langs_count=8&theme=solarized-dark)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visheshrwl&theme=solarized_dark)
+
 </details>
 
 ---
 
-<details>
-<summary><b>🚀 Recent Projects & Highlights</b></summary>
-
-<ul>
-  <li>🧠 <b>Edge AI:</b> Building real-time inference pipelines for robotics and IoT.</li>
-  <li>⚡ <b>EV Battery Health:</b> Researching and publishing on battery analytics and predictive maintenance.</li>
-  <li>🌐 <b>Web Platforms:</b> Architected scalable web apps with React, Django, and Node.js.</li>
-  <li>🛠️ <b>Open Source:</b> Active contributor to <a href="https://github.com/visheshrwl">public repos</a> and global hackathons.</li>
-</ul>
-
-</details>
-
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 📈 Analytics & GitHub Insights
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=visheshrwl&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true" alt="Vishesh's GitHub stats"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=visheshrwl&layout=compact&langs_count=8&theme=solarized-dark" alt="Top Languages"/>
-  <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visheshrwl&theme=solarized_dark" alt="Profile Details"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshrwl&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧠 Technical Interests
-
-- Distributed Systems & Cloud
-- Robotics & Embedded AI
-- Systems Programming (Rust, C++)
-- Web Performance & Security
-- Data Visualization & Analytics
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <b>Curious about my work or want to collaborate?</b><br>
-  <a href="mailto:vishesh.rawal@proton.me">vishesh.rawal@proton.me</a> | <a href="https://linkedin.com/in/visheshrawal">LinkedIn</a> | <a href="https://twitter.com/VisheshRwl">Twitter</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=visheshrwl&base=54000" alt="Visitors"/>
-</p>
-
-<!-- End of profile -->
+[vishesh.rawal@proton.me](mailto:vishesh.rawal@proton.me)
