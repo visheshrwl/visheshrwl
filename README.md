@@ -7,7 +7,7 @@ I've been wrong about architecture exactly as many times as I've been right.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal)
 [![Website](https://img.shields.io/badge/visheshrawal.in-000000?logo=google-chrome&logoColor=white)](https://visheshrawal.in)
 [![npm](https://img.shields.io/badge/npm-%40blackvult%2Fdevkit-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/@blackvult/devkit)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://x.com/visheshrawal_in])
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/visheshrawal_in)
 
 ---
 
@@ -29,7 +29,9 @@ I've been wrong about architecture exactly as many times as I've been right.
 
 **When ClickHouse is the right answer** — and more often, when it isn't.
 
-**The gap between "observable" and "actually understood in production."**
+**The gap between "observable" and "actually understood in production."** Prometheus tells you a service is slow. It doesn't tell you why. Closing that gap — with structured logs, traces, and pprof — is where the real work is.
+
+**Building observability from zero.** Standing up Prometheus + Grafana + Loki from scratch, wiring up alerting, and then watching it catch something in production before a user does. That feedback loop never gets old.
 
 ---
 
@@ -37,6 +39,7 @@ I've been wrong about architecture exactly as many times as I've been right.
 
 - **[google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)** — PR #1426. Windows `pip install` support. Small fix, took longer than expected, ships in the 2.0 blog post. Marc Lanctot was kind enough to call it out.
 - **[idempotent.dev](https://idempotent.dev)** — Go microservice. Idempotency-as-a-service for HTTP APIs. Upstash Redis backend. Live.
+- **Prometheus + Grafana + Loki observability stack** — built end-to-end at Repos Energy. The heap reduction story came out of this: found a ~61% allocation problem that nobody knew existed until the dashboards said otherwise.
 - **97 articles** on [visheshrawal.in](https://visheshrawal.in). Written because I got tired of re-explaining the same things in PRs.
 - **IEEE Xplore** — one paper. Zero-Trust in distributed API infrastructure. Written during my final year, holds up reasonably well.
 
@@ -48,7 +51,8 @@ I've been wrong about architecture exactly as many times as I've been right.
 Daily          Go, Python, TypeScript
 Occasionally   Rust, C, C++
 Databases      PostgreSQL (primary), Redis, ClickHouse, Kafka/MSK
-Infra          AWS EKS, Docker, Kubernetes, Prometheus, Grafana, Loki
+Infra          AWS EKS, Docker, Kubernetes
+Observability  Prometheus, Grafana, Loki, pprof, OpenTelemetry
 ```
 
 ---
