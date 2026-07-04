@@ -7,7 +7,7 @@ I've been wrong about architecture exactly as many times as I've been right.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/visheshrawal)
 [![Website](https://img.shields.io/badge/visheshrawal.in-000000?logo=google-chrome&logoColor=white)](https://visheshrawal.in)
 [![npm](https://img.shields.io/badge/npm-%40blackvult%2Fdevkit-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/@blackvult/devkit)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VisheshRwl)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/VisheshRwl](https://x.com/visheshrawal_in))
 
 ---
 
