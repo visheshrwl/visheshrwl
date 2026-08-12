@@ -41,7 +41,7 @@ I've been wrong about architecture exactly as many times as I've been right.
 - **[idempotent.dev](https://idempotent.dev)** — Go microservice. Idempotency-as-a-service for HTTP APIs. Upstash Redis backend. Live.
 - **Prometheus + Grafana + Loki observability stack** — built end-to-end at Repos Energy. The heap reduction story came out of this: found a ~61% allocation problem that nobody knew existed until the dashboards said otherwise.
 - **97 articles** on [visheshrawal.in](https://visheshrawal.in). Written because I got tired of re-explaining the same things in PRs.
-- **IEEE Xplore** — one paper. Zero-Trust in distributed API infrastructure. Written during my final year, holds up reasonably well.
+- **IEEE Xplore** — one paper. Zero-Trust in distributed API infrastructure. Written during my penultimate year of engineering, holds up reasonably well.
 
 ---
 
